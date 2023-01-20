@@ -1,19 +1,6 @@
 ﻿// project_UP_pract.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-/**
-*
-* Solution to course project # 2
-* Introduction to programming course
-* Faculty of Mathematics and Informatics of Sofia University
-* Winter semester 2022/2023
-*
-* @author Lora Hristova
-* @idnumber 6MI0600252* @compiler GCC
-*
-*/
-
-
 #include <iostream>
 #include <fstream>
 using namespace std;
